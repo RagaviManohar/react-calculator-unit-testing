@@ -1,15 +1,12 @@
-# TDD React
+# React-UnitTesting
 
-A simple Calculator app created for a blog post at [testdriven.io](https://testdriven.io/blog/tdd-with-react-jest-and-enzyme-part-one/).
-
-## Local Setup
-
+#Steps to run project
 ```sh
-$ git clone git@github.com:calebpollman/react-calculator.git
+$ git clone https://github.com/RagaviManohar/react-calculator-unit-testing
 ```
 
 ```sh
-$ cd react-calculator
+$ cd react-calculator-unit-testing
 ```
 
 ```sh
